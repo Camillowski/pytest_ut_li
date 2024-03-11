@@ -13,3 +13,5 @@ def csv_reader(file_location):
                 raise ValueError(str(exp))
 
         return data
+
+# Dodaj parser jsonów i xmlów
